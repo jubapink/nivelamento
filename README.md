@@ -1,0 +1,1 @@
+Ola ,meu nome é Julia Dourado, tenho 15 anos e sou aluna do beraldo, essa experiencia esta sendo um pouco dificl pois nunca tive muito contato com computação ,espero melhorar ao decorrer das aulas e entender melhor este meio dos computadores. 
