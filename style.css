@@ -1,13 +1,13 @@
 body{
 
-    background-color:rgb(147, 216, 207)
+    background-color: blanchedalmond;
 
-}
+} 
 
 header{
 
-border-bottom: solid 2px rgb(239, 241, 67);
+border-bottom: solid 2px black;
 padding: 20px;
-font-size: 32px ;
-color:rgb(252, 140, 246)
+font-size: 32px;
+color: lightskyblue;
 }
