@@ -1,12 +1,14 @@
 body{
 
-    background-color: blanchedalmond;
-
+    background-color: aliceblue;
+    color: aquamarine;
+    margin: 0px;
+    margin-bottom: 100px;
 } 
 
 header{
 
-border-bottom: solid 2px black;
+border-bottom: solid 2px rgb(217, 138, 236);
 padding: 20px;
 font-size: 32px;
 color: darkcian;
