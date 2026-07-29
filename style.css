@@ -13,3 +13,20 @@ padding: 20px;
 font-size: 32px;
 color: darkcian;
 }
+
+
+.capa {
+    color:rgb(228, 182, 228);
+    font-size: 20px;
+}
+
+#heroi{
+     display: flex;
+     padding-left: 200px;
+}
+.videos{
+
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
